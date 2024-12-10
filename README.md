@@ -1,6 +1,3 @@
-Here's a comprehensive description for your GitHub repository's README file tailored to the project:
-
----
 
 # Patient Management System
 
